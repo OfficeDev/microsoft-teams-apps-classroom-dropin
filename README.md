@@ -10,6 +10,9 @@ urlFragment: microsoft-teams-apps-classroom-dropin
 
 ## Classroom Drop-in App Template
 
+| [Documentation](https://github.com/OfficeDev/microsoft-teams-apps-classroom-dropin/wiki/Home) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-classroom-dropin/wiki/Deployment-guide) | [Architecture](https://github.com/OfficeDev/microsoft-teams-apps-classroom-dropin/wiki/Solution-Overview) |
+| ---- | ---- | ---- |
+
 As learning has moved online, system leaders have a hard time monitoring what’s going on in the virtual classroom. They need a way to drop-in and observe how teachers and students are doing.
 Also, there is a need to provide temporary access to substitute teachers.
   
